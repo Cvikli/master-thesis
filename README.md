@@ -20,7 +20,7 @@ https://tdk.bme.hu/VIK/DownloadPaper/Mestergeges-neuralis-halok-modellenek-javit
 ### Algorithm limits/conditions
 + There must be some kind of overfitting between the train and validation dataset (that is what it decrease automatic way.)
 + The arithmetic used in the neural network is limited (It can be extended.)
-..+ e.x. recurrence node needs some work to be handled properly
+..* e.x. recurrence node needs some work to be handled properly
 + Batch based training isn't adequate
 
 # Results
